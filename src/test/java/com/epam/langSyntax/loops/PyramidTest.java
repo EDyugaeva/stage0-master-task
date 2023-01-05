@@ -1,5 +1,6 @@
-package com.epam.loops;
+package com.epam.langSyntax.loops;
 
+import com.epam.loops.Pyramid;
 import com.epam.util.BaseIOTest;
 import org.junit.jupiter.api.Test;
 
